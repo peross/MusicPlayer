@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPMp3Player", "BPMp3Player\BPMp3Player.csproj", "{CC44DED6-4835-4EFF-9DDA-69863BE8A61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC44DED6-4835-4EFF-9DDA-69863BE8A61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC44DED6-4835-4EFF-9DDA-69863BE8A61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC44DED6-4835-4EFF-9DDA-69863BE8A61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC44DED6-4835-4EFF-9DDA-69863BE8A61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019EB50D-14B6-401E-AA67-6885382C0736}
+	EndGlobalSection
+EndGlobal
